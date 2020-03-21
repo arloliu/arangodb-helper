@@ -1,0 +1,8 @@
+node_modules
+tmp
+.vscode
+.env
+processed.txt
+isolate-*-v8.log
+*.log
+!.env.template
