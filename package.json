@@ -1,8 +1,11 @@
 {
   "name": "arangodb-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ArangoDB client helper",
   "main": "lib/index.js",
+  "scripts": {
+    "eslint": "eslint ./"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/arloliu/arangodb-helper.git"
